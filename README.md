@@ -1,4 +1,13 @@
-## Hi there 👋
+## ***Ah, you're finally awake.***
+
+My name is Serena, I'm an Advanced Computing Sciences student at Maastricht University (Universiteit Maastricht) in the Netherlands. 
+
+Currently I'm working on getting my computer science degree. I am open to work in the summer (2026), including internship-to-part-time positions.
+I work on personal projects when I can, with the vast majority of my interests being in creating games or applications.  
+
+I'm familiar with several IDEs but often use VSCode. I have the most experience in Java, HTML, and CSS, but have also worked with C++, Python, and C. 
+
+Reach out via the [contact page](https://serenaintheworkplace.carrd.co/#contact) on my site or through [LinkedIn](https://www.linkedin.com/in/serena-krueger/). Information about my experience and education can also be found on both sites!
 
 <!--
 **skrueg1/skrueg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
